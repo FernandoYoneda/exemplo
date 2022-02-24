@@ -1,0 +1,20 @@
+{
+  "name": "exemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoYoneda/exemplo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoYoneda/exemplo/issues"
+  },
+  "homepage": "https://github.com/FernandoYoneda/exemplo#readme"
+}
